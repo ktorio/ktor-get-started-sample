@@ -1,0 +1,1 @@
+The project created in the [Creating a New Ktor Project](https://ktor.io/docs/intellij-idea.html) tutorial.
